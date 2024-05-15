@@ -20,4 +20,4 @@ jobs:
         with:
           context: Dockerfolder
           push: trus
-          tags: momsomrach1168/gitdockeri:latest
+          tags: momsomrach1168/gitdockerci:latest
