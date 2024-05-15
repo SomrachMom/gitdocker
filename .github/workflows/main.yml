@@ -20,4 +20,4 @@ jobs:
         with:
           context: Dockerfolder
           push: true
-          tags: momsomrach1168/gitdockerci:latest
+          tags: SomrachMom/gitdockerci:latest
